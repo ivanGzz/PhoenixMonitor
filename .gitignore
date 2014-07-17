@@ -1,0 +1,46 @@
+# Folders #
+###########
+bin/
+
+# Eclipse files #
+#################
+.cproject
+.project
+.settings
+.classpath
+
+# Compiled source #
+###################
+*.class
+
+# Package Files #
+#################
+*.jar
+*.war
+*.ear
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Phoenix files #
+#################
+*.phx
+*.log
